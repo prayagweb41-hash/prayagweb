@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <title>YouTube Creator Services </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="Mt4rtzSwynJBIljJ8ddQM-cJX_8T-R9vSU2n7WX-n0Y" />
+
 
 </head>
 <body>
@@ -11,6 +13,9 @@
 <header>
   <h1>YouTube Creator Services</h1>
   <p>Connecting YouTubers with Editors, Thumbnail Designers & Script Writers</p>
+
+
+
 </header>
 
 <section>
