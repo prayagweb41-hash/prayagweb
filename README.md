@@ -18,7 +18,7 @@
   <div class="card">
     <h2>What I Do</h2>
     <p>
-      I run a <strong>solo service</strong> that connects YouTube creators
+      I run a <strong>service</strong> that connects YouTube creators
       with skilled professionals like video editors, thumbnail designers,
       and script writers.
     </p>
