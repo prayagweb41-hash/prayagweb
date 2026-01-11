@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>YouTube Creator Services | Solo Connector</title>
+  <title>YouTube Creator Services </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
@@ -51,7 +51,7 @@
       <li>Verified skills</li>
     </ul>
 
-    <a class="btn" href="https://wa.me/XXXXXXXXXX" target="_blank">
+    <a class="btn" href="https://wa.me/9766480365" target="_blank">
       Hire YouTube Services
     </a>
   </div>
@@ -68,7 +68,7 @@
       <li>Script Writing</li>
     </ul>
 
-    <a class="btn" href="https://wa.me/XXXXXXXXXX" target="_blank">
+    <a class="btn" href="https://wa.me/9766480365" target="_blank">
       Join as Service Provider
     </a>
   </div>
@@ -76,8 +76,7 @@
   <div class="card">
     <h2>About</h2>
     <p class="note">
-      This is an independently operated solo service.
-      I am not a registered agency. All work is handled transparently
+      All work is handled transparently
       with clear communication and fair commission.
     </p>
   </div>
